@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Gooper';
+    src: url('https://raw.githubusercontent.com/olivierla9/font/e00c682aab414b658d30454eae02ea820aa28c14/Gooper-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
